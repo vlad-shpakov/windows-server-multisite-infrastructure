@@ -1,4 +1,4 @@
-# Pasta Scaduta — Infrastructure Windows Server multi-sites
+# Pasta Scaduta - Infrastructure Windows Server multi-sites
 
 Projet pratique réalisé dans le cadre de ma formation à **SUPINFO** (module *Windows Server*).
 
